@@ -1,0 +1,11 @@
+****************************
+
+  Platform Release Notes: 
+
+****************************
+
+Version 1.0.7
+- Start change tracking with Platform free version
+- Fix - Fixed missing files
+------------------------------------- Date: Nov 23, 2010
+
